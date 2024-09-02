@@ -26,7 +26,7 @@ Before setting up the project, ensure the following prerequisites are met:
 1. Clone the project repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/online-code-compiler.git
+git clone https://github.com/the-vansh/Code_compiler-app.git
  ```
 
 2. Install backend dependencies:
@@ -70,3 +70,15 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 ---
 
 Thank you for exploring the React and Node.js News App project! We hope you find it exciting and useful. If you have any questions or feedback, please feel free to reach out.
+
+## Contributors
+
+- **Vansh Sani** - Creator and Maintainer
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any issues or inquiries, please contact [contactvanshsaini@gmail.com](mailto:contactvanshsaini@gmail.com).
