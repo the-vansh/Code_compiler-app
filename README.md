@@ -23,8 +23,50 @@ Before setting up the project, ensure the following prerequisites are met:
 
 ### Clone the Repository
 
-Clone the project repository to your local machine:
+1. Clone the project repository to your local machine:
 
 ```bash
 git clone https://github.com/your-username/online-code-compiler.git
-cd online-code-compiler
+ ```
+
+2. Install backend dependencies:
+
+   ```bash
+   cd backend
+   npm install
+   ```
+
+3. Install frontend dependencies:
+
+   ```bash
+   app.js 
+   npm install
+   ```
+
+## Usage
+
+1. To start
+
+    ```bash
+       npm run Both
+    ```
+    This automatically start the backend server along with the frontend.
+
+   
+Access the app in your web browser at `http://localhost:3000`.
+
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature-new-feature`.
+3. Make your changes and commit them: `git commit -am 'Add new feature'`.
+4. Push to the branch: `git push origin feature-new-feature`.
+5. Submit a pull request outlining your changes.
+
+
+---
+
+Thank you for exploring the React and Node.js News App project! We hope you find it exciting and useful. If you have any questions or feedback, please feel free to reach out.
