@@ -67,18 +67,15 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 5. Submit a pull request outlining your changes.
 
 
----
-
-Thank you for exploring the React and Node.js News App project! We hope you find it exciting and useful. If you have any questions or feedback, please feel free to reach out.
-
 ## Contributors
 
 - **Vansh Sani** - Creator and Maintainer
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
 For any issues or inquiries, please contact [contactvanshsaini@gmail.com](mailto:contactvanshsaini@gmail.com).
+
+---
+
+Thank you for exploring the React and Node.js News App project! We hope you find it exciting and useful. If you have any questions or feedback, please feel free to reach out.
