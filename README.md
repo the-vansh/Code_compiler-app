@@ -42,6 +42,9 @@ git clone https://github.com/the-vansh/Code_compiler-app.git
    app.js 
    npm install
    ```
+4. Creating the `.env` File
+
+In the directory, create a file named `.env`. This file will store your environment variables, including sensitive information like Gemini API key.
 
 ## Usage
 
